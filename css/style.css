@@ -137,18 +137,27 @@ img {
  }
 
 
- 
- /*media mobile*/
- 
  @media screen and (max-width: 480px) {
-    .container {
-        display: flex wrap;  
+    .container .row {
+        display: flex;  
+        flex-wrap: wrap;
+        margin: 30px;
        }
     
-       
+
+
+       .col {
+        width: 100%;
+        margin: 20px;
+       }
         
-   
-    
+       
+       .why-us {
+           background-color: black;
+            
+        } 
+
+      
 
 
 }
