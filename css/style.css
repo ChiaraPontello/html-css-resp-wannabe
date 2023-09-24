@@ -144,20 +144,30 @@ img {
         margin: 30px;
        }
     
-
-
-       .col {
-        width: 100%;
-        margin: 20px;
-       }
-        
        
-       .why-us {
+        .lessons .col {
+            width: 100%;
+            margin: 30px;
+        }
+        
+    
+        .steps .col {
+            width: 100%;
+            margin:30px;
+        }
+    
+       
+        .why-us {
            background-color: black;
-            
         } 
-
-      
+    
+          
+        .why-us .col{
+            width: 100%;
+            
+        }
+     
+        
 
 
 }
