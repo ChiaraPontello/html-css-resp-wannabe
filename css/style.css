@@ -141,8 +141,8 @@ img {
     .container .row {
         display: flex;  
         flex-wrap: wrap;
-        margin: 30px;
-       }
+        }
+      
     
        
         .lessons .col {
@@ -164,6 +164,8 @@ img {
           
         .why-us .col{
             width: 100%;
+           margin: 30px;
+            
             
         }
      
